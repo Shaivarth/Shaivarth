@@ -26,7 +26,7 @@
 - **Machine Learning**: Exploring the basics and understanding the power of AI.
 
 ### My Learning Path : 
-- I tackle problems on Leetcode daily, maintaining a coding streak on the platform.
+- I tackle problems on Leetcode consistently, maintaining a coding streak on the platform.
 - Participating in hackathons and coding competitions to challenge myself and learn from peers.
 
 ### Let's Connect!
