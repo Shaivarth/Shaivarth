@@ -1,4 +1,4 @@
-# Hello, I'm Sārthak! 
+# Namaskār, I'm Sārthak!  
 
 ### My Education :
 - I'm an Engineering Student at Vellore Institute of Technology, Bhopal.
