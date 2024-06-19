@@ -2,7 +2,7 @@
 
 ### My Education :
 - I'm an Engineering Student at Vellore Institute of Technology, Bhopal.
-- Currently pursuing my degree in Btech CSE. 
+- Currently pursuing my undergraduation in Btech CSE Core. 
 - My journey in the tech world is driven by my passion for problem-solving and innovation.
 
 ### Proficient In : 
