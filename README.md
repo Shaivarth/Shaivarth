@@ -35,7 +35,7 @@
 - **Email**: (sarthakmishra080803@gmail.com)
 
 ### Fun Fact :
-- When I'm not coding, you can find me reading Philosophy.
+- "When I'm not coding, you can find me reading Philosophy."
 
 Thanks for stopping by! Feel free to explore my socials and connect with me. Keep grinding!!
 
