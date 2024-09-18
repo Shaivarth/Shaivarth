@@ -3,7 +3,7 @@
 ### Education :
 - I'm an Engineering Student at Vellore Institute of Technology, Bhopal.
 - Currently pursuing my undergraduation in Btech CSE Core.
-- 
+  
 ### Programming Languages : 
   - **C++** : My go-to language for Data Structures & Algorithm Practice.
   - **Java** : My first Programming Language, Practiced it in my School.
