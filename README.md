@@ -5,7 +5,7 @@
 - Currently pursuing my undergraduation in Btech CSE Core.
   
 ### Programming Languages : 
-  - **C++** : My go-to language for Data Structures & Algorithm Practice.
+  - **C++** : ![alt text]([image-url](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)) Cpp
   - **Java** : My first Programming Language, Practiced it in my School.
   - **Python** : I'm starting to explore Python for writing simple scripts
     and automating basic tasks like scanning and information gathering.
