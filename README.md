@@ -20,10 +20,10 @@
 - **Graphic Design** : Developed a great interest and curiosity for design principles and actively practices creating designs.
 
 ### Interests :
-- **Programming**: Active user on LeetCode, consistently solving problems to improve my algorithmic thinking.
-- **Cyber security**: Learning the fundamentals of ethical hacking, network security, and vulnerability assessment to build a strong foundation in the field.
-- **Graphic Designing** : I give graphic makeovers to the cool stuff I read and write about, and then upload them as posts on my Instagram page (@shaivarthic).
-- **AI & Machine Learning**: Exploring the basics and understanding the power of AI.
+- **Programming:** Active LeetCode user, solving problems to sharpen algorithmic thinking.
+- **Cybersecurity:** Learning ethical hacking, network security, and vulnerability assessment for a solid foundation.
+- **Graphic Design:** Create graphic designs based on what I read and share them on Instagram (@shaivarthic).
+- **AI & Machine Learning:** Exploring the fundamentals and potential of AI.
 
 ### Let's Connect!
 - **LinkedIn**: (https://www.linkedin.com/in/shaivarth)
