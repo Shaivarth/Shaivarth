@@ -15,16 +15,17 @@
   - Visual Studio Code: My preferred code editor.
 
 ### What I'm Learning Currently :
-- **Data Structures and Algorithms (DSA)** : Actively enhancing my Problem-Solving skills on LeetCode and other platforms.
+- **Cybersecurity** : Constantly learning new concepts of cybersecurity and ethical hacking.
 - **Computer Networking** : Constantly learning networking fundamentals for cybersecurity projects.
+- **Data Structures and Algorithms (DSA)** : Actively enhancing my Problem-Solving skills on LeetCode and other platforms.
 - **Graphic Design** : Developed a great interest and curiosity for design principles and actively practices creating designs.
 
 ### Interests :
-- **Programming:** Active LeetCode user, solving problems to sharpen algorithmic thinking.
 - **Cybersecurity:** Learning ethical hacking, network security, and vulnerability assessment for a solid foundation.
-- **Graphic Design:** Create graphic designs based on what I read and share them on Instagram (@shaivarthic).
 - **AI & Machine Learning:** Exploring the fundamentals and potential of AI.
-
+- **Programming:** Active LeetCode user, solving problems to sharpen algorithmic thinking.
+- **Graphic Design:** Create graphic designs based on what I read.
+  
 ### Let's Connect!
 - **LinkedIn**: (https://www.linkedin.com/in/shaivarth)
 - **Twitter**: (https://x.com/sarthakm08)
