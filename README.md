@@ -38,7 +38,8 @@ I'm also preparing for the **Certified Ethical Hacker (CEH)** certification whil
 ## TryHackMe :
 <p align="center">
   <a href="https://tryhackme.com/p/shaivarth">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png" alt="Your Image Badge" />
+
   </a>
 </p>
 
