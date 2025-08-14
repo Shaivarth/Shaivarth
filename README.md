@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=🛡️%20Sarthak%20Mishra%20🛡&fontColor=ffffff&fontSize=40&animation=fadeIn">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Cybersecurity;Ethical+Hacking;TryHackMe+%7C+Python+%7C+Linux+;Seeking+Cybersecurity+Internships">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Cybersecurity;Ethical+Hacking;TryHackMe+%7C+Python+%7C+Linux+;Seeking+Cybersecurity+Opportunities">
 </p>
 
 ---
