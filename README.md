@@ -36,11 +36,9 @@ I'm also preparing for the **Certified Ethical Hacker (CEH)** certification whil
 - **Windows OS** – User management, services, and command line.
 
 ## TryHackMe :
-<p align="center">
-  <a href="https://tryhackme.com/p/shaivarth">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png" alt="Your Image Badge" />
 
-  </a>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png?timestamp=20250814" alt="Your Image Badge" />
 </p>
 
 ## Github Stats :
