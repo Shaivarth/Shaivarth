@@ -38,7 +38,7 @@ I'm also preparing for the **Certified Ethical Hacker (CEH)** certification whil
 ## TryHackMe :
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png?timestamp=20251012011609" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png?timestamp=20251013011726" alt="TryHackMe Badge" />
 </p>
 
 ## Github Stats :
