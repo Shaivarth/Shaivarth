@@ -51,4 +51,4 @@ Also preparing for the Certified Ethical Hacker (CEH) certification while streng
 <p align="center"> <a href="https://www.linkedin.com/in/shaivarth/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sarthakatwork08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://tryhackme.com/p/Shaivarth"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" /></a> </p>
 
 
-![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png?timestamp=20260513024802)
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png?timestamp=20260514024935)
