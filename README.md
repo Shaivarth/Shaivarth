@@ -7,7 +7,7 @@
 
 ## Who Am I :
 
-Cybersecurity student focused on:
+Cybersecurity person focused on:
 
 * Security Operations (SOC), threat detection, and incident analysis
 * Ethical hacking, vulnerability assessment, and network security
