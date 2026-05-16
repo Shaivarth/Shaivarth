@@ -32,7 +32,7 @@ Also preparing for the Certified Ethical Hacker (CEH) certification while streng
 * Vulnerability scanning and assessment
 
 
-## SOC Tools & Technologies:
+## Tools & Technologies:
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
