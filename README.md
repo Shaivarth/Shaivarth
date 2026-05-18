@@ -42,3 +42,6 @@
 <p align="center"> <a href="https://www.linkedin.com/in/shaivarth/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/shaivarth/"><img src="https://img.shields.io/badge/Instagram-E4424F?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://x.com/sarthakm08"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="mailto:sarthakatwork08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://medium.com/@shaivarth"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a><a href="https://tryhackme.com/p/Shaivarth"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" /></a></p>
 
 
+
+
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/Shaivarth.png?timestamp=20260518025727)
