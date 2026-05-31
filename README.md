@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=800&center=true&width=500&color=ffffff&lines=Sarthak+Mishra;SOC+Analyst;Threat+Detection+%26+Incident+Response;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Blue+Team+%7C+Network+Defence+%7C+MITRE+ATT%26CK">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=800&center=true&width=500&color=ffffff&lines=Sarthak+Mishra;SOC+Analyst;Threat+Detection+%26+Incident+Response;Log+Analysis++%7C+SIEM+%7C+Threat+Hunting;Blue+Team+%7C+MITRE+ATT%26CK+%7C+Network+Defence">
 </p>
 <h3 align="center">𝚆𝚑𝚊𝚝 𝙸 𝙳𝚘</h3>
 
