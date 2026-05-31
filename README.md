@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=800&center=true&width=500&color=006400&lines=Sarthak+Mishra;SOC+Analyst;Threat+Detection+%26+Incident+Response;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Blue+Team+%7C+Network+Defence+%7C+MITRE+ATT%26CK">
 </p>
 
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 
+---
 
 <h3 align="center">What I Do</h3>
 
