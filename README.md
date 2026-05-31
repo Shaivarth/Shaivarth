@@ -1,11 +1,8 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=800&center=true&width=500&color=006400&lines=Sarthak+Mishra;SOC+Analyst;Threat+Detection+%26+Incident+Response;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Blue+Team+%7C+Network+Defence+%7C+MITRE+ATT%26CK">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=800&center=true&width=500&color=ffffff&lines=Sarthak+Mishra;SOC+Analyst;Threat+Detection+%26+Incident+Response;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Blue+Team+%7C+Network+Defence+%7C+MITRE+ATT%26CK">
 </p>
-
----
-
-<h3 align="center">What I Do</h3>
+<h3 align="center">𝚆𝚑𝚊𝚝 𝙸 𝙳𝚘</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Blue%20Team-0A0A0A?style=for-the-badge&logo=shield&logoColor=blue"/>
@@ -19,7 +16,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20Sentinel-556B2F?style=for-the-badge&logo=microsoft&logoColor=blue"/>
 </p>
 
-<h3 align="center">What I Use</h3>
+<h3 align="center">𝚆𝚑𝚊𝚝 𝙸 𝚄𝚜𝚎</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
@@ -37,6 +34,6 @@
 <img src="https://img.shields.io/badge/TryHackMe-blue?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
 
-<h3 align="center">Where to Find Me</h3>
+<h3 align="center">𝚆𝚑𝚎𝚛𝚎 𝚝𝚘 𝙵𝚒𝚗𝚍 𝙼𝚎</h3>
 
 <p align="center"> <a href="https://www.linkedin.com/in/shaivarth/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/shaivarth/"><img src="https://img.shields.io/badge/Instagram-C21E56?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://x.com/sarthakm08"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="mailto:sarthakatwork08@gmail.com"><img src="https://img.shields.io/badge/Gmail-C04000?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://medium.com/@shaivarth"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a><a href="https://tryhackme.com/p/Shaivarth"><img src="https://img.shields.io/badge/TryHackMe-800000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a></p>
