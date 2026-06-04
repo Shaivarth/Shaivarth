@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kali_Linux-452c63?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E3001B?style=for-the-badge&logo=mitre&logoColor=white"/>
-<img src="https://img.shields.io/badge/TryHackMe-blue?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-800000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
 
 <h3 align="center">𝚆𝚑𝚎𝚛𝚎 𝚝𝚘 𝙵𝚒𝚗𝚍 𝙼𝚎</h3>
