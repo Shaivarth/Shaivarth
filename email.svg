@@ -3,7 +3,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     font-family="ConsolasFallback,Consolas,monospace"
-    width="330px"
+    width="400px"
     height="50px"
     font-size="16px"
 >
@@ -29,7 +29,11 @@
         }
     </style>
 
-    <text x="0" y="30" fill="#c9d1d9">
-        <tspan class="key">Email</tspan>: <tspan class="value">sarthakatwork08@gmail.com</tspan>
-    </text>
+    <text
+        x="200"
+        y="30"
+        text-anchor="middle"
+        fill="#c9d1d9"
+    ><tspan class="key">Email</tspan>: <tspan class="value">sarthakatwork08@gmail.com</tspan></text>
+
 </svg>
