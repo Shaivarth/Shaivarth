@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./me.svg" alt="Email">
+  <img src="./email.svg" alt="Email">
 </div>
