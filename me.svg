@@ -3,7 +3,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     font-family="ConsolasFallback,Consolas,monospace"
-    width="400px"
+    width="330px"
     height="50px"
     font-size="16px"
 >
@@ -34,7 +34,7 @@
     </style>
 
     <text
-        x="15"
+        x="5"
         y="30"
         fill="#c9d1d9"
     >
