@@ -24,20 +24,12 @@
             fill: #a5d6ff;
         }
 
-        .cc {
-            fill: #616e7f;
-        }
-
         text, tspan {
             white-space: pre;
         }
     </style>
 
-    <text
-        x="5"
-        y="30"
-        fill="#c9d1d9"
-    >
-        <tspan class="key">Email</tspan>:<tspan class="cc"> </tspan><tspan class="value">sarthakatwork08@gmail.com</tspan>
+    <text x="0" y="30" fill="#c9d1d9">
+        <tspan class="key">Email</tspan>: <tspan class="value">sarthakatwork08@gmail.com</tspan>
     </text>
 </svg>
